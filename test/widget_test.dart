@@ -162,7 +162,7 @@ class Ayam extends Makanan  {
 }
 Void() {
   //instansiasi
-  var k1 = Makanan (jenis: 'sembako',nama: 'beras',total: 70);
+  var k1 = Makanan (jenis: 'makananpokok',nama: 'minyak',total: 70);
   
   k1.jenis = "Makanan Pokok";
  // print(k1.ukuran(5));
